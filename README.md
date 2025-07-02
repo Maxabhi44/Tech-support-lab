@@ -1,4 +1,4 @@
-# Tech Support L1 Practice Lab 🚀
+# Tech Support L1 Practice Lab 
 
 This project simulates real-world IT Support tickets, troubleshooting steps, and SOP documentation for fresher-level engineers applying for L1/L2 support roles.
 
